@@ -2,9 +2,9 @@
 Operatii aritmetice pe numere foarte mari salvate in memorie ca vector de int.
 
 functions.cpp - constructori <br>
-                destructor <br>
-                operator = <br>
-                functii auxiliare (afisare, normalizare) <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;destructor <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;operator = <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;functii auxiliare (afisare, normalizare) <br>
 <br>
 add.cpp - operatorul + <br>
 sub.cpp - operatorul - <br>
