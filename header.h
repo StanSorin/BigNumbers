@@ -17,6 +17,8 @@ public:
     Number& operator=(const Number& other);
     bool operator>(const Number& other) const;
     Number operator+(const Number& other) const;
+    Number operator-(const Number& ohter) const;
+    Number operator*(const Number& other) const;
 
     void Normalization();
     void Afisare();

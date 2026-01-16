@@ -6,7 +6,7 @@
 Number::Number()    // constructorul vid va initializa obiectul cu 0
 {
     sign = 1;
-    digits.push_back(0);
+    digits.clear();
     p = 0;
 }
 

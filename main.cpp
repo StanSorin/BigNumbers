@@ -4,8 +4,12 @@
 
 int main()
 {
-    Number a("0.999"), b("0.002"), c;
-    c = a + b;
+    Number a("0"), b("0.002"), c;
+    c = a - b;
+    c.Afisare();
+
+    Number aa("-12.34"), bb("0.1");
+    c = aa * bb;
     c.Afisare();
 
     return 0;
