@@ -5,7 +5,8 @@ functions.cpp - constructori
                 destructor
                 operator =
                 functii auxiliare (afisare, normalizare)
-add.cpp - operatorul +
-sub.cpp - operatorul -
-mul.cpp - operatorul *
+<br>
+add.cpp - operatorul + <br>
+sub.cpp - operatorul - <br>
+mul.cpp - operatorul * <br>
 ifBigger - operatorul > (compara numerele in modul)
